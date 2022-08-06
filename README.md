@@ -1,5 +1,5 @@
   <div style="display: inline_block;" align="center"><br>
-  <img align="center" alt="rd-Js" height="260" width="300" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png">
+  <img align="center" alt="rd-Js" height="360" width="400" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png">
 </div> 
 
 
@@ -11,7 +11,7 @@
 
  
   <div style="display: inline_block;" align="center"><br>
-  <img align="center" alt="rd-Js" height="160" width="300" src="https://www.nicepng.com/png/full/947-9477723_front-end-development-logos-for-example-html-5.png">
+  <img align="center" alt="rd-Js" height="190" width="300" src="https://www.nicepng.com/png/full/947-9477723_front-end-development-logos-for-example-html-5.png">
 </div> 
 
 # integrantes
