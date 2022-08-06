@@ -23,7 +23,7 @@
 
 const FrontEnd team = {
 
-Vini , Rodrigo , Stefany , Rafael , Rafaela , Pedro , Maria , Kauan
+Vinicius , Rodrigo , Stefany , Rafael , Rafaela , Pedro , Maria , Kauan
 
 }
 
@@ -70,6 +70,12 @@ Vini , Rodrigo , Stefany , Rafael , Rafaela , Pedro , Maria , Kauan
      <td align="center"><a href="https://github.com/RodrigoAnjos2004"><img src="https://avatars.githubusercontent.com/u/89110372?v=4" width="64px;" alt=""/><br /><sub><b>Rodrigo Silva</b></sub></a><br /></td>
   </tr>
   
+  <tr>
+     <td align="center"><a href="https://github.com/rafaellrossi><img src="https://avatars.githubusercontent.com/u/91340426?v=4" width="64px;" alt=""/><br /><sub><b>Rafael Rossi</b></sub></a><br /></td>
+  </tr>
+  
+  
+  
  <tr>
      <td align="center"><a href="https://github.com/"><img src="https://www.business2community.com/wp-content/uploads/2017/08/blank-profile-picture-973460_640.png" width="64px;" alt=""/><br /><sub><b>lorem</b></sub></a><br /></td>
   </tr>
@@ -78,7 +84,7 @@ Vini , Rodrigo , Stefany , Rafael , Rafaela , Pedro , Maria , Kauan
   <table align="right">
   
  <tr>
-     <td align="center"><a href="https://github.com/"><img src="https://www.business2community.com/wp-content/uploads/2017/08/blank-profile-picture-973460_640.png" width="64px;" alt=""/><br /><sub><b>lorem</b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/RafaelaMascarenhas"><img src="https://avatars.githubusercontent.com/u/88278315?v=4" width="64px;" alt=""/><br /><sub><b>Rafaela Mascarenhas</b></sub></a><br /></td>
   </tr>
   
   
