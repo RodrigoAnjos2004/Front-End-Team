@@ -64,7 +64,8 @@ Vini , Rodrigo , Stefany , Rafael , Rafaela , Pedro , Maria , Kauan
     <td align="center"><a href="https://github.com/Vinicius-Souza-Araujo"><img src="https://avatars.githubusercontent.com/u/91327153?v=4" width="64px;" alt=""/><br /><sub><b>Vinicius Souza</b></sub></a><br /></td>
     
   </tr>
-  
+	<td align="center"><a href="https://github.com/PedroBicas"><img src="https://avatars.githubusercontent.com/u/91327153?v=4" width="64px;" alt=""/><br /><sub><b>Pedro Bicas</b></sub></a><br /></td>
+	
   <tr>
      <td align="center"><a href="https://github.com/RodrigoAnjos2004"><img src="https://avatars.githubusercontent.com/u/89110372?v=4" width="64px;" alt=""/><br /><sub><b>Rodrigo Silva</b></sub></a><br /></td>
   </tr>
