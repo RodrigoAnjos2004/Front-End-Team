@@ -2,15 +2,22 @@
   <img align="center" alt="rd-Js" height="260" width="300" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png">
 </div> 
 
+
  <h2 align="center">Frontend team</h2>
  <p align="center">coffe = code!</p>
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=333&size=20&center=true&vCenter=true&width=1000&lines=...............................................................................................................................................:%29)](https://git.io/typing-svg)
+
+
  
   <div style="display: inline_block;" align="center"><br>
   <img align="center" alt="rd-Js" height="160" width="300" src="https://www.nicepng.com/png/full/947-9477723_front-end-development-logos-for-example-html-5.png">
 </div> 
 
 # integrantes
-
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=333&size=20&center=true&vCenter=true&width=1000&lines=...............................................................................................................................................:%29)](https://git.io/typing-svg)
+ 
 ``` {
 #include <stdio.h>
 
@@ -24,7 +31,9 @@ Vini , Rodrigo , Stefany , Rafael , Rafaela , Pedro , Maria , Kauan
 
 		
 # Features
-
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=333&size=20&center=true&vCenter=true&width=1000&lines=...............................................................................................................................................:%29)](https://git.io/typing-svg)
+ 
 - LOREM
 - LOREM
 - LOREM
@@ -34,7 +43,9 @@ Vini , Rodrigo , Stefany , Rafael , Rafaela , Pedro , Maria , Kauan
 
 		
 # Tech
-
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=333&size=20&center=true&vCenter=true&width=1000&lines=...............................................................................................................................................:%29)](https://git.io/typing-svg)
+ 
 - LOREM
 - LOREM
 - LOREM
@@ -44,7 +55,9 @@ Vini , Rodrigo , Stefany , Rafael , Rafaela , Pedro , Maria , Kauan
 
 
 # Contributors 
-
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=333&size=20&center=true&vCenter=true&width=1000&lines=...............................................................................................................................................:%29)](https://git.io/typing-svg)
+ 
 
 <table align="left">
   <tr>
@@ -78,4 +91,5 @@ Vini , Rodrigo , Stefany , Rafael , Rafaela , Pedro , Maria , Kauan
   
    </table>
 
-<p align="center">Copyright © 2022 FRONT-TEAM</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bcbc00&height=200&section=footer&text=Copyright+©+2022+FRONT-TEAM&fontSize=20&fontColor=000&animation=twinkling"/>
+
