@@ -71,7 +71,7 @@ Vinicius , Rodrigo , Stefany , Rafael , Rafaela , Pedro , Maria , Kauan
   </tr>
   
   <tr>
-     <td align="center"><a href="https://github.com/rafaellrossi><img src="https://avatars.githubusercontent.com/u/91340426?v=4" width="64px;" alt=""/><br /><sub><b>Rafael Rossi</b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/rafaellrossi"><img src="https://avatars.githubusercontent.com/u/91340426?v=4" width="64px;" alt=""/><br /><sub><b>Rafael Rossi</b></sub></a><br /></td>
   </tr>
   
   
