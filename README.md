@@ -84,7 +84,7 @@ Vinicius , Rodrigo , Stefany , Rafael , Rafaela , Pedro , Maria , Kauan
   
   
  <tr>
-     <td align="center"><a href="https://github.com/StefanniBianca"><img src="https://avatars.githubusercontent.com/u/91340404?v=4" width="64px;" alt=""/><br /><sub><b>lorem</b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/StefanniBianca"><img src="https://avatars.githubusercontent.com/u/91340404?v=4" width="64px;" alt=""/><br /><sub><b>Stefanni Bianca</b></sub></a><br /></td>
   </tr>
   
  <tr>
