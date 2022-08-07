@@ -88,7 +88,7 @@ Vinicius , Rodrigo , Stefany , Rafael , Rafaela , Pedro , Maria , Kauan
   </tr>
   
  <tr>
-     <td align="center"><a href="https://github.com/"><img src="https://www.business2community.com/wp-content/uploads/2017/08/blank-profile-picture-973460_640.png" width="64px;" alt=""/><br /><sub><b>lorem</b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/MariaLourdesS"><img src="https://avatars.githubusercontent.com/u/91340432?v=4" width="64px;" alt=""/><br /><sub><b>Maria Lourdes</b></sub></a><br /></td>
   </tr>
   
    </table>
