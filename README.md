@@ -40,6 +40,7 @@ Vinicius , Rodrigo , Stefany , Rafael , Rafaela , Pedro , Maria , Kauan
 - LOREM
 - LOREM
 - LOREM
+- LOREM
 
 		
 # Tech
