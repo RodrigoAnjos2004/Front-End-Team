@@ -23,7 +23,7 @@
 
 const FrontEnd team = {
 
-Vinicius , Rodrigo , Stefany , Rafael , Rafaela , Pedro , Maria , Kauan
+Vinicius, Rodrigo, Stefanni, Rafael, Rafaela, Pedro, Maria, Kauan
 
 }
 
